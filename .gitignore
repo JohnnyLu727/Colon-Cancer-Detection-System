@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+colon_cancer_detection_model_acc0.8800.h5
+lung_colon_image_set/
+training_history_acc0.8800.csv
